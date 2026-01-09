@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "ドキュメント",
+  "base_artist": "サカナクション",
+  "createdAt": "2026-01-09T13:12:00.599678Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ドキュメント",
+      "artist": "sakanaction",
+      "has_synced": true,
+      "path": "select/01_ドキュメント_sakanaction.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ドキュメント",
+      "artist": "サカナクション",
+      "has_synced": true,
+      "path": "select/02_ドキュメント_サカナクション.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Document [ドキュメント]",
+      "artist": "sakanaction",
+      "has_synced": false,
+      "path": "select/03_Document_[ドキュメント]_sakanaction.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ドキュメント",
+      "artist": "サカナクション",
+      "has_synced": true,
+      "path": "select/04_ドキュメント_サカナクション.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ドキュメント",
+      "artist": "サカナクション",
+      "has_synced": false,
+      "path": "select/pl_01_ドキュメント_サカナクション.txt"
+    }
+  ]
+}
